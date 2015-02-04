@@ -1,4 +1,4 @@
-url: "//kidnes88.github.com"
+baseurl: "kidnes88.github.com"
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
