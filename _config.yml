@@ -1,4 +1,3 @@
-baseurl: "kidnes88.github.com"
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
